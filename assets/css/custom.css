@@ -17,7 +17,7 @@ body {
 
 /* Page content styling */
 .page-content {
-    max-width: 900px; /* Limit the width for better readability */
+    max-width: 1200px; /* Limit the width for better readability */
     width: 100%;
     margin: 0 auto;
     padding: 20px; /* Add padding for better spacing */
