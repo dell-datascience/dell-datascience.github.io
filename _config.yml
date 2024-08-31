@@ -1,5 +1,5 @@
 title: Albert's Data Engineering Blog
-description: A blog about data engineering journery with DataTalksClub
+description: A blog about my data engineering journery with DataTalksClub
 
 
 show_downloads: "false"
@@ -10,5 +10,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+
+# Custom CSS
+include:
+  - assets/css/custom.css
 
 paginate: 5
