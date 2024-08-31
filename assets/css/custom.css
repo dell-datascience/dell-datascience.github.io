@@ -26,6 +26,15 @@ body {
     border-radius: 8px; /* Rounded corners */
 }
 
+/* Ensure parent containers are not restricting width */
+.container, .wrapper, .main-content {
+    width: 100%;
+    max-width: 1200px; /* Match the max-width of .page-content */
+    margin: 0 auto;
+    padding: 0 20px; /* Add padding for better spacing */
+    box-sizing: border-box; /* Ensure padding is included in the width */
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif; /* Use a different serif font for headings */
