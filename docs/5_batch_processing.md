@@ -1,8 +1,12 @@
 ->Back : [Lesson 4: Analytics Engineering](4_analytics.md)
+->Next : [Lesson 6: Streaming](6_streaming.md)
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
+# Batch Processing
+
+## Table of Contents
 - [Batch Processing](#batch-processing)
+  - [Table of Contents](#table-of-contents)
+  - [Data Processing](#data-processing)
   - [Batch processing](#batch-processing-1)
   - [Streaming processing](#streaming-processing)
   - [Batch processing](#batch-processing-2)
@@ -25,9 +29,9 @@
   - [GroupBy on Spark](#groupby-on-spark)
   - [Join in Spark](#join-in-spark)
 
-# Batch Processing
 
-Data Processing
+
+## Data Processing
 
 Data processing is the set of operations and techniques used to transform raw data into meaningful information. This information can be used to make decisions, perform analysis, and predictions, or automate processes. There are different techniques for processing data: batch and streaming (real-time) processes.
 
@@ -521,3 +525,5 @@ In Spark we can combine two DataFrames as if they were two relational tables usi
 df = df1.join(df2, on='id', how='left')
 ```
 
+->Back : [Lesson 4: Analytics Engineering](4_analytics.md)
+->Next : [Lesson 6: Streaming](6_streaming.md)

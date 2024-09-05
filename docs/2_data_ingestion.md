@@ -1,12 +1,12 @@
->Back: [Lesson 1: Introduction to Data Engineering](1_introduction.md)
-
+->Back: [Lesson 1: Introduction to Data Engineering](1_introduction.md)
 ->Next: [Lesson 3: Data Warehouse](3_data_warehouse.md)
 
-# Table of contents
+# Data Ingestion
 
-- [Table of contents](#table-of-contents)
-- [Week2](#week2)
+## Table of contents
+
 - [Data Ingestion](#data-ingestion)
+  - [Table of contents](#table-of-contents)
 - [Data Lake](#data-lake)
   - [What is a Data Lake?](#what-is-a-data-lake)
   - [Data Lake vs Data Warehouse](#data-lake-vs-data-warehouse)
@@ -31,9 +31,8 @@
 - [Mage setup](#mage-setup)
 
 
-# Week2
 
-# Data Ingestion
+
 
 This lesson will cover the topics of _Data Lake_ and _pipelines orchestration with Prefect and Mage_.
 
@@ -1162,4 +1161,5 @@ dev:
 ![alt text](../images/image-94.png)
 <p align='center'>testing the docker postgres connection</p>
 
+->Back: [Lesson 1: Introduction to Data Engineering](1_introduction.md)
 ->Next: [Lesson 3: Data Warehouse](3_data_warehouse.md)

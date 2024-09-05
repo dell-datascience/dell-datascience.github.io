@@ -1,10 +1,11 @@
 ->Back : [Lesson 2: Data Ingestion](2_data_ingestion.md)
-
 ->Next: [Lesson 4: Analytics Engineering](4_analytics.md)
 
-# Table of contents
-- [Table of contents](#table-of-contents)
+# Week 3 :Data warehouse
+
+## Table of contents
 - [Week 3 :Data warehouse](#week-3-data-warehouse)
+  - [Table of contents](#table-of-contents)
   - [Google Big query](#google-big-query)
   - [External tables](#external-tables)
   - [Google BigQuery Optimization](#google-bigquery-optimization)
@@ -28,9 +29,6 @@
   - [HYPER PARAM TUNNING](#hyper-param-tunning)
 
 
-
-
-# Week 3 :Data warehouse
 
 The files for this section are found in the Data_Engineering/week_3_data_warehouse folder in my repo.
 
@@ -361,4 +359,5 @@ WHERE tip_amount IS NOT NULL;
 
 **[Steps to extract and deploy model with docker](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_3_data_warehouse/extract_model.md)**
 
+->Back : [Lesson 2: Data Ingestion](2_data_ingestion.md)
 ->Next: [Lesson 4: Analytics Engineering](4_analytics.md)

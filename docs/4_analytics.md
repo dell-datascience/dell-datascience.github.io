@@ -1,12 +1,12 @@
 ->Back: [Lesson 3: Data Warehouse](3_data_warehouse.md)
-
 ->Next: [Lesson 5: Batch Processing](5_batch_processing.md)
 
+# Analytics Engineering
 
-# Table of contents
+## Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Analytics Engineering](#analytics-engineering)
+  - [Table of contents](#table-of-contents)
   - [Data Build Tool (dbt)](#data-build-tool-dbt)
   - [Some of the main features of dbt](#some-of-the-main-features-of-dbt)
   - [How to get started with dbt?](#how-to-get-started-with-dbt)
@@ -43,8 +43,6 @@
 - [Visualizing the data with google looker studio](#visualizing-the-data-with-google-looker-studio)
 - [Reports in Google Data Studio (reports)](#reports-in-google-data-studio-reports)
 
-
-# Analytics Engineering
 
 ![Alt text](../images/image-13.png)
 <p align="center">Data roles</p>
@@ -1416,4 +1414,5 @@ Graphs: or visualizations, are all kinds of statistical graphs that we can use t
 After a few minutes of effort, we can enjoy our first report in Google Data Studio:
 
 
+->Back: [Lesson 3: Data Warehouse](3_data_warehouse.md)
 ->Next: [Lesson 5: Batch Processing](5_batch_processing.md)

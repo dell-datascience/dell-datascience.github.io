@@ -1,9 +1,12 @@
->Back: [index](../index.md)
+->Back: [index](../index.md)
+->Next: [Data Ingestion](2_data_ingestion.md)
 
->Next: [Data Ingestion](2_data_ingestion.md)
+# Introduction to Data Engineering
+
 ### Table of contents
 - [Introduction to Data Engineering](#introduction-to-data-engineering)
-- [What is Data Engineering?](#what-is-data-engineering)
+    - [Table of contents](#table-of-contents)
+  - [What is Data Engineering?](#what-is-data-engineering)
 - [Docker and Postgres](#docker-and-postgres)
   - [What is Docker?](#what-is-docker)
 - [Creating a simple custom pipeline Docker tutorial](#creating-a-simple-custom-pipeline-docker-tutorial)
@@ -36,9 +39,7 @@
 
 
 
-# Introduction to Data Engineering
-
-# What is Data Engineering?
+## What is Data Engineering?
 
 **Data engineering** is the process of designing, building, and maintaining
 the infrastructure and systems that enable the collection, storing, and
@@ -1006,4 +1007,5 @@ Postgres running locally in your host computer), a [Video Guide](https://www.you
 
 _[Back to the top](#table-of-contents)_
 
->Next: [Data Ingestion](2_data_ingestion.md)
+->Back: [index](../index.md)
+->Next: [Data Ingestion](2_data_ingestion.md)
