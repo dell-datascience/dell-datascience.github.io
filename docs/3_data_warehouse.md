@@ -1,4 +1,5 @@
 ->Back : [Lesson 2: Data Ingestion](2_data_ingestion.md)
+
 ->Next: [Lesson 4: Analytics Engineering](4_analytics.md)
 
 # Week 3 :Data warehouse
@@ -360,4 +361,5 @@ WHERE tip_amount IS NOT NULL;
 **[Steps to extract and deploy model with docker](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_3_data_warehouse/extract_model.md)**
 
 ->Back : [Lesson 2: Data Ingestion](2_data_ingestion.md)
+
 ->Next: [Lesson 4: Analytics Engineering](4_analytics.md)

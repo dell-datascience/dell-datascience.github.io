@@ -1,4 +1,5 @@
 ->Back: [Lesson 1: Introduction to Data Engineering](1_introduction.md)
+
 ->Next: [Lesson 3: Data Warehouse](3_data_warehouse.md)
 
 # Data Ingestion
@@ -1162,4 +1163,5 @@ dev:
 <p align='center'>testing the docker postgres connection</p>
 
 ->Back: [Lesson 1: Introduction to Data Engineering](1_introduction.md)
+
 ->Next: [Lesson 3: Data Warehouse](3_data_warehouse.md)

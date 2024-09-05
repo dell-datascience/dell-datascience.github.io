@@ -1,4 +1,5 @@
 ->Back : [Lesson 4: Analytics Engineering](4_analytics.md)
+
 ->Next : [Lesson 6: Streaming](6_streaming.md)
 
 # Batch Processing
@@ -526,4 +527,5 @@ df = df1.join(df2, on='id', how='left')
 ```
 
 ->Back : [Lesson 4: Analytics Engineering](4_analytics.md)
+
 ->Next : [Lesson 6: Streaming](6_streaming.md)
