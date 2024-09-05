@@ -1,4 +1,4 @@
->Next: [Data Ingestion](2_data_ingestion.md)
+>Back: [index](../index.md)
 
 >Next: [Data Ingestion](2_data_ingestion.md)
 ### Table of contents
